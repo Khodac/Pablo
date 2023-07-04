@@ -45,3 +45,11 @@ Bienvenido a mi perfil de GitHub.
   &emsp;&emsp; <a href="https://www.linkedin.com/in/pablo-caballero-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
  
   &emsp;&emsp; <a href="mailto:pablo.caballero.marin@outlook.es" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
+
+## STATS
+<p align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khodac&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDW23&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+  
+</p>
